@@ -1,3 +1,3 @@
 # AGDL
 
-Source code of CVPR 2021 paper "Learning Scalable ℓ∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression".
+Source code of CVPR 2021 paper "Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton".
